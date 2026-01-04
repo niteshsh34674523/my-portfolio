@@ -48,7 +48,7 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-4 text-sm text-gray-300">
             <div className="flex items-center space-x-2">
               <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-              <span>+91-9587591192</span>
+              <span>+91-6376772434</span>
             </div>
             <div className="flex items-center space-x-2">
               <span className="w-2 h-2 bg-blue-400 rounded-full animate-pulse"></span>
@@ -57,7 +57,7 @@ const Header = () => {
           </div>
 
           <div className="flex items-center space-x-4">
-            <a href="https://linkedin.com/niteshsh34" className="flex flex-col items-center">
+            <a href="https://www.linkedin.com/in/niteshsh34/" className="flex flex-col items-center">
               <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" className="w-4 h-4" />
               <span className="text-xs text-gray-300">LinkedIn</span>
             </a>
