@@ -2,28 +2,28 @@ import React from 'react';
 import SkillCard from '../components/SkillCard.jsx';
 
 // Languages
-import C from '../assets/C.svg';
-import CPP from '../assets/C++.svg';
-import JavaScript from '../assets/JavaScript.svg';
-import Python from '../assets/Python.svg';
+import C from '../assets/c.svg';
+import CPP from '../assets/c++.svg';
+import JavaScript from '../assets/javascript.svg';
+import Python from '../assets/python.svg';
 
 // Frontend
-import HTML from '../assets/HTML5.svg';
-import CSS from '../assets/CSS3.svg';
-import ReactLogo from '../assets/React.svg';
-import Tailwind from '../assets/Tailwind CSS.svg';
+import HTML from '../assets/html5.svg';
+import CSS from '../assets/css3.svg';
+import ReactLogo from '../assets/react.svg';
+import Tailwind from '../assets/tailwindcss.svg';
 
 // Backend
-import Node from '../assets/Node.js.svg';
-import Express from '../assets/Express.svg';
-import MongoDB from '../assets/MongoDB.svg';
-import MySQL from '../assets/MySQL.svg';
+import Node from '../assets/node.js.svg';
+import Express from '../assets/express.svg';
+import MongoDB from '../assets/mongodb.svg';
+import MySQL from '../assets/mysql.svg';
 
 // Tools
-import Git from '../assets/Git.svg';
+import Git from '../assets/git.svg';
 import GitHub from '../assets/github.svg';
-import VSCode from '../assets/Visual Studio Code (VS Code).svg';
-import Postman from '../assets/Postman.svg';
+import VSCode from '../assets/vscode.svg';
+import Postman from '../assets/postman.svg';
 
 const Skills = () => {
   const skillsData = {

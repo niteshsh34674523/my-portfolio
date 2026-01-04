@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
 // Social icons
-import X from '../assets/X.svg';
-import LinkedIn from '../assets/LinkedIn.svg';
-import Instagram from '../assets/Instagram.svg';
+import X from '../assets/x.svg';
+import LinkedIn from '../assets/linkedin.svg';
+import Instagram from '../assets/instagram.svg';
 import GitHub from '../assets/github.svg';
 
 const Contact = () => {
