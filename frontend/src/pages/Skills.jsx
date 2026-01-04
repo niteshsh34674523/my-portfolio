@@ -21,7 +21,7 @@ import MySQL from '../assets/MySQL.svg';
 
 // Tools
 import Git from '../assets/Git.svg';
-import GitHub from '../assets/GitHub.svg';
+import GitHub from '../assets/github.svg';
 import VSCode from '../assets/Visual Studio Code (VS Code).svg';
 import Postman from '../assets/Postman.svg';
 

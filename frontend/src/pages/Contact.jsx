@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import X from '../assets/X.svg';
 import LinkedIn from '../assets/LinkedIn.svg';
 import Instagram from '../assets/Instagram.svg';
-import GitHub from '../assets/Github.svg';
+import GitHub from '../assets/github.svg';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
