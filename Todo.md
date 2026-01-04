@@ -1,0 +1,2 @@
+- [x] Update Contact.jsx: Replace emoji icons in socialLinks with inline SVG strings.
+- [x] Update Contact.jsx: Modify the social link icon rendering to use dangerouslySetInnerHTML for SVG strings.
